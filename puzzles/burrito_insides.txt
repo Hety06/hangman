@@ -1,0 +1,21 @@
+Burrito Guts
+pinto beans
+black beans
+white rice
+brown rice
+chicken
+beef
+pork
+lettuce
+cheese
+onions
+tomatoes
+corn
+sour cream
+guacamole
+salsa
+jalapenos
+olives
+shrimp
+queso
+tofu
